@@ -33,5 +33,7 @@ public class LoginPage {
 		
 		btnLogin.click();
 	}
+	System.out.println("--------------------------");
+	
 	
 }
